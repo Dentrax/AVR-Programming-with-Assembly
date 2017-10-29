@@ -31,11 +31,11 @@ AVR Microcontroller Programming with Assembly guide is an easy and advanced way 
 **Required Tools**
 
 * -**[AtmelStudio](http://www.atmel.com/tools/atmelstudio.aspx)**
-    - Atmel Studio 7 is the integrated development platform (IDP) for developing and debugging Atmel® SMART ARM®-based and Atmel AVR® microcontroller (MCU)     applications. [only used for asm-level coding and debugging purpose]
+    - `Atmel Studio 7` is the integrated development platform (IDP) for developing and debugging Atmel® SMART ARM®-based and Atmel AVR® microcontroller (MCU)     applications. [only used for asm-level coding and debugging purpose]
 * -**[ATmega2560 Microcontroller](http://www.microchip.com/wwwproducts/en/ATmega2560)**
-    - The high-performance, low-power Atmel® AVR® 8-Bit RISC-based Microcontroller [Used in this tutorial]
+    - The high-performance, low-power `Atmel® AVR® 8-Bit RISC-based Microcontroller` [Used in this tutorial]
 * -**[ATmega2560 Datasheet](http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)**
-    - Datasheet for Atmel ATmega640/V-1280/V-1281/V-2560/V-2561/V
+    - Datasheet for `Atmel ATmega640/V-1280/V-1281/V-2560/V-2561/V`
  
 ## How To Use
 
@@ -75,7 +75,7 @@ AVR-Programming-with-Assembly was created to serve three purposes:
 
 ## Collaborators
 
-**Project Manager** - Furkan Türkal (GitHub: **[dentrax](https://github.com/dentrax)**)
+**Project Manager** - Furkan Türkal (GitHub: **[Dentrax](https://github.com/dentrax)**)
 
 ## Branches
 
