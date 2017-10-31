@@ -13,9 +13,9 @@
 	rjmp main
 	
 main:
-	ldi r16, 0x20	; 0x20=0010 0000 -> PORTB nin 5. pinini output yapmak istiyoruz, o nedenle 5. bit 1
-	out DDRB, r16	; PortB nin data direction registeri DDRB ye r16 daki degeri yaziyoruz
+	ldi r16, 0x20	; Set PORTB's 5th pin to output mode [0x20 = 0010 0000, r16 = PORTB]
+	out DDRB, r16	; Write the r16's value at the PORTB's DDRB (DataDirectionRegister)
    
 loop_main:
-	sbi PORTB, 5	; PORTB nin 5. pinini lojik 1 yapiyoruz yani set ediyoruz ve led yaniyor.
-	rjmp loop_main	; Programin loop_main etiketine giderek sonsuz dongude calismasini sagliyoruz
+	sbi PORTB, 5	; Set PORTB's 5th pin to logic 1 and activate the LED
+	rjmp loop_main	; Go to loop_button tag via RelativeJump and make it work in an infinite loop

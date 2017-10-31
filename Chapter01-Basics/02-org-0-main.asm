@@ -9,8 +9,8 @@
 
 ; The command at the 0th place (also known as ".org 0"), is the first executed command when the first time it is started or reset								
 
-.org 0				; The 0th address in the program memory, allows the next command to be written.
-	rjmp main		; Redirecting to main (or whatever you want) which we want to work first.
+.org 0          ; The 0th address in the program memory, allows the next command to be written.
+    rjmp main   ; Redirecting to main (or whatever you want) which we want to work first.
 
 main
     ;Codes
