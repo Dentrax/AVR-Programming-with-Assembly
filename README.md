@@ -47,19 +47,19 @@ Just research the **[main repository](https://github.com/Dentrax/AVR-Programming
 
 * Diagrams
 
-**[Pin Configuration](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/figure-1.1-pin_configuration_diagram.png)**
+**[Pin Configuration](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/resources/figure-1.1-pin_configuration_diagram.png)**
 
-**[Pinout CBGA](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/figure-1.2-pinout_cbga_diagram.png)**
+**[Pinout CBGA](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/resources/figure-1.2-pinout_cbga_diagram.png)**
 
-**[Pinout](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/figure-1.3-pinout_diagram.png)**
+**[Pinout](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/resources/figure-1.3-pinout_diagram.png)**
 
-**[Block](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/figure-2.1-block_diagram.png)**
+**[Block](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/resources/figure-2.1-block_diagram.png)**
 
-**[ACR CPU Core](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/figure-7.0-avr_cpu_core_diagram.png)**
+**[ACR CPU Core](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/resources/figure-7.0-avr_cpu_core_diagram.png)**
 
-**[Register Working](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/figure-7.2-register_working_diagram.png)**
+**[Register Working](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/resources/figure-7.2-register_working_diagram.png)**
 
-**[System Clock](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/figure-10.0-system_clock_diagram.png)**
+**[System Clock](https://github.com/Dentrax/AVR-Programming-with-Assembly/tree/master/resources/figure-10.0-system_clock_diagram.png)**
 
 ## About
 
